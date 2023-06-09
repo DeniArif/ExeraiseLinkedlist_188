@@ -15,7 +15,7 @@ public:
 	CircularLinkedList() {
 		LAST = NULL;
 	}void addNode();
-	bool search(int rollno, Node** Dio, Node** Arya);
+	bool search(int rollno, Node** Deni, Node** Wibowo);
 	bool listEmpty();
 	bool delNode();
 	void traverse();
